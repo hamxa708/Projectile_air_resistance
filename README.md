@@ -20,7 +20,7 @@ theta: Launch angle of the projectile (in degrees).
 h0: Initial height of the projectile above the ground (in meters).
 k: Air resistance constant (in kg/m).
 m: Mass of the object (in kilograms).
-Dependencies
+Dependencies:
 The code does not have any external dependencies and only requires a standard Python interpreter to run.
 
 Disclaimer
