@@ -1,5 +1,5 @@
 # Projectile_air_resistance
-This code in python simulates a projectile motion with taking air resistance in consideration and outputs flight time.
+This code in python simulates a projectile motion with air resistance in consideration and outputs flight time.
 Projectile Motion with Air Resistance
 This code implements a simple simulation of projectile motion in a 2D environment, considering the effect of air resistance. The projectile is launched at a given initial velocity and angle from an initial height. The program calculates and outputs the time of flight for the projectile, taking into account the specified air resistance constant and mass of the object.
 
